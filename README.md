@@ -1,49 +1,95 @@
+## Hi there, I'm Sahar Alomari  :blush:
 
 
-# Hi, I'm Sahar Alomario! 👋
-## 🚀 About Me
+<!-- ## :point_down: About Me -->
+ <img   width="350" height="300" src="https://cdn.dribbble.com/users/876183/screenshots/4178051/_______.gif" align="right" alt="GIF"/>
+
+<br/>
+<br/>
+
+<div style="display: flex;  gap: 0.25rem  ">
 
 Self-motivated and driven, I have passionate about developing scalable web applications and working across the full stack. I am mostly a self-learner, I can easily adapt to new things and always 
 ready to take on a challenge.
 <p>&nbsp;
+  
+</div>
+<br/>
+<br/>
+<br/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Full Stack Developmenet...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlomariSahar&show_icons=true&theme=merko&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="AlomariSahar stats card" /></p>
-<a href="https://www.mongodb.com/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="40" width="40" />
-</a>
-<a href="https://www.mysql.com/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" width="40" />
-</a>
-<a href="https://nodejs.org" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="40" width="40" />
-</a>
-<a href="https://expressjs.com" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" height="40" width="40" />
-</a>
-<a href="https://reactjs.org/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="40" width="40" />
-</a>
-<a href="https://www.w3schools.com/css/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="Css3" height="40" width="40" />
-</a>
-<a href="https://www.w3.org/html/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html5" height="40" width="40" />
-</a>
-<a href="https://www.java.com" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="40" width="40" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40" />
-</a>
-phone :+971-551196956
+# :computer: Skills
+
+### 🏎️ Programming Languages
+
+<div style="display: flex; gap: 0.25rem">
+
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![image](https://img.shields.io/badge/Java-2F2625?style=for-the-badge&logo=CoffeeScript&logoColor=white)
+
+</div>
+
+### 🌋 Frontend Development
+
+<div style="display: flex; gap: 0.25rem">
+
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+</div>
+
+### 🔥 Backend Development
+
+<div style="display: flex; gap: 0.25rem">
+
+![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+ ![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+</div>
+
+
+
+### 📦 Database
+
+<div style="display: flex; gap: 0.25rem">
+  
+![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+
+
+<br />
+
+# 🤙 Connect with me
+
+<div style="display: flex; gap:0.25rem">
+
+[<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][github]
+[<img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][email]
+
+</div>
+
+---
+<!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+
+<div  align="center">
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=AlomariSahar&show_icons=true&theme=dracula)
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlomariSahar&hide=html,css&theme=dracula)
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlomariSahar&theme=dracula)
+
+</div>
+
+
+[linkedin]:https://www.linkedin.com/in/sahar-alomari/
+[github]: https://github.com/AlomariSahar
+[email]: mailto:salomari.sahar@gmail.com
+
